@@ -19,7 +19,7 @@ Total Story Points
 Note: points changes on assignment 2.2 = 20 points per sprint. Therefore it will change
 from 10 to 20.
 Velocity = 20 points per sprint.
-            53 / 20 = 3.65 (Rounded = 3)
+            53 / 20 = 2.65 (Rounded = 3)
             Therefore 3 Sprints.
 
 Reasoning:
