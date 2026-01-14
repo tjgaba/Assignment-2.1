@@ -1,4 +1,4 @@
-## Sprint 1 Mid-Sprint Checkpoint
+# Sprint 1 Mid-Sprint Checkpoint
 
 ## Progress Snapshort
 
@@ -10,7 +10,7 @@
 
 ## At risk work
 
-- Story  #(5 e.g) : Valdatoin logic is more complex
+- Story  #(5 e.g) : Valdation logic is more complex
 - Story #8 : Extenal dependancy is not available.
 
 ## Decisions taken
@@ -25,3 +25,29 @@
 ## Team Health
 - moral : fair
 - collaboration: weak
+
+
+
+# Sprint 2 Mid-Sprint Checkpoint
+
+## Progress Snapshort
+
+- Planned points: 20
+- completed points:  10
+- in ProgressNot: 10
+- Not started: 0
+- status: On track
+
+## At risk work
+
+- None
+
+## Decisions taken
+- n/a
+
+## Blockers
+- None
+
+## Team Health
+- moral : Perfect
+- collaboration: excellent
