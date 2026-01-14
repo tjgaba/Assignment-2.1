@@ -65,17 +65,27 @@ Velocity = 20 points per sprint.            (Velocity changes according to Assig
 
 ## Selected User Stories for [Sprint 1] - (Including subtasks of [Story #1])
 
-| Story # 			        | Title 				            | Story Points 	|
-| [Story #1] 	            | Basic room booking 		        | 8 		    |
-| [Story #1 - subtask 1] 	| Design booking data model 		|  		        |
-| [Story #1 - subtask 2] 	| Implement availability check logic|  		        |
-| [Story #1 - subtask 3] 	| Create booking API endpoint 		|  		        |
-| [Story #1 - subtask 4] 	| Build booking UI component 		|  		        |
-| [Story #1 - subtask 5] 	| Add validation and error handling |  		        |
-| [Story #1 - subtask 6] 	| Write tests 				        |  		        |
-| [Story #2] 	            | Recurring meetings 		        | 8 		    |
-| [Story #4] 	            | Capacity filtering 		        | 2 		    |
-| [Story #10] 	            | Visitor assistance 		        | 2 		    |
+| Story # ----------------| Title -------------------------- -| Story Points- |
+
+| [Story #1]--------------| Basic room booking--------------- | 8 -------------|
+
+| [Story #1 - subtask 1]--| Design booking data model-------- |----------------|
+
+| [Story #1 - subtask 2] 	| Implement availability check logic|----------------|
+
+| [Story #1 - subtask 3] 	| Create booking API endpoint-------|----------------|
+
+| [Story #1 - subtask 4] 	| Build booking UI component--------|----------------|
+
+| [Story #1 - subtask 5] 	| Add validation and error handling |----------------|
+
+| [Story #1 - subtask 6] 	| Write tests -----------------------|----------------|
+
+| [Story #2]--------------| Recurring meetings----------------| 8 -------------|
+
+| [Story #4]--------------| Capacity filtering----------------| 2  -------------|
+
+| [Story #10]-------------| Visitor assistance----------------| 2 -------------|
 
 
 ## Dependencies
