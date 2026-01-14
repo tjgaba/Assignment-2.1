@@ -71,12 +71,26 @@ context and understanding.
 - Blocking -[Story #2] As an Employee, i  want to Select an automation option
 
 ## Risks
-| Risk | Probability | Impact | Mitigation |
+
+| Risk                                        | Probability | Impact | Mitigation                                                       |
+|
+| Design errors in booking data model         | Medium      | High   | Go through the database design with the team and check it carefully 			|
+| Incorrect availability check logic          | Medium      | High   | Explain clearly what the logic should do, have a teammate check it, and test it early 	|
+| API endpoint fails or returns wrong data    | Medium      | High   | Test the API using tools like Postman, check responses, and run tests 			|
+| UI component usability issues               | Medium      | Medium | Test the interface quickly, ask a teammate to review, and follow design guidelines 	|
+| Validation and error handling missing cases | High        | Medium | Make clear rules for input checks, add both server and client checks, and test them both |
+| Tests not covering edge cases               | Medium      | High   | Write tests for normal and unusual cases and have teammates review them 			|
+
+
+- Key notes: 
+    - Risk → Something that might go wrong with the subtask.
+    - Probability → Likelihood it will occur (Low/Medium/High).
+    - Impact → How badly it affects the Increment or Sprint if it happens.
+    - Mitigation → Practical action to reduce the risk.
 
 ## Standup Cadence
-Time:
-
+Time: 30 mins
 Format: 
-Yesterday 
-Today
-Blockers
+- Yesterday : Assigned Story #1,2,10 & 4 to the Spring  Backlog, and started to work on Story #1; Starting with; The Design booking data model
+- Today : Today we attended the; Incorrect availability check logic.
+- Blockers : The only blocker today was the design errors we encounter from [Story #1 - subtask 1]. But that was handled.
