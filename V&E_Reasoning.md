@@ -16,10 +16,11 @@
 Total Story Points
 
 8 + 8 + 2 + 2 + 5 + 8 + 8 + 8 + 2 + 2 = 53 story points
-
-Velocity = 10 points per sprint.
-            53 / 10 = 5.3 (Rounded = 6)
-            Therefire 6 points per Sprint.
+Note: points changes on assignment 2.2 = 20 points per sprint. Therefore it will change
+from 10 to 20.
+Velocity = 20 points per sprint.
+            53 / 20 = 3.65 (Rounded = 3)
+            Therefore 3 Sprints.
 
 Reasoning:
 
