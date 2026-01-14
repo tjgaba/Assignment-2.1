@@ -53,6 +53,8 @@ Velocity = 20 points per sprint.            (Velocity changes according to Assig
             53 / 20 = 2.65 (Rounded = 3)
             Therefire 3 Sprints.
 
+**Velocity = 20.**
+
 ## Selected User Stories for [Sprint 1] - (Including subtasks of [Story #1])
 
 | Story # 			        | Title 				            | Story Points 	|
