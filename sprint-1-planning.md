@@ -93,4 +93,4 @@ Time: 30 mins
 Format: 
 - Yesterday : Assigned Story #1,2,10 & 4 to the Spring  Backlog, and started to work on Story #1; Starting with; The Design booking data model
 - Today : Today we attended the; Incorrect availability check logic.
-- Blockers : The only blocker today was the design errors we encounter from [Story #1 - subtask 1]. But that was handled.
+- Blockers : The only blocker today was the design errors we encounter from [Story #1 - subtask 1]. But that was successfully handled. 
