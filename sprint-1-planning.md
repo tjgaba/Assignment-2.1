@@ -25,23 +25,31 @@ Product Backlog, then respectively be assigned into the Sprint Backlog to be att
 the Dev team. 
 
 Hint: 
-**Sprint #1: TimeBox = 4-weeks**  
+
+**Sprint #1: TimeBox = 4-weeks** 
+
     **Time Frame: For [Story #1] = 1-week** 
-    *[Story #1] velocity; 8 + 8 + 2 + 2 = 20 points*
-    Note: One(1)sprint = 20 points according to assignment 2.2.
-            **Subtask Span = 6 days** 
-            - 6 subtasks → 6 working days  
-            - 1 subtask can fit per day to cover the 6 day period.
+  
+            Note: One(1)sprint = 20 points according to assignment 2.2.
+            [Story #1] velocity; 8 + 8 + 2 + 2 = 20 points
+            Subtask Span = 6 days
+              - 6 subtasks → 6 working days  
+              - 1 subtask can fit per day to cover the 6 day period.
+              
             ---
+            
             *The following is just for comprehension/understanding - not necessarily part of the questionnaire requirements*
-            - 2 + 1 + 2 + 1 + 1 + 1 = 8 substory 'points'  
-            - 8 ÷ 6 days = 1.33  substory 'points' per day are needed to complete [Story #1].
-            - Therefore Velocity for these subtasks = 1.33.
-            - Rounded-off: 2 . 
+              - 2 + 1 + 2 + 1 + 1 + 1 = 8 substory 'points'  
+              - 8 ÷ 6 days = 1.33  substory 'points' per day are needed to complete [Story #1].
+              - Therefore Velocity for these subtasks = 1.33.
+              - Rounded-off: 2 . 
             This means a highly recommended 1 sub-task can 
             be done in one day to cover [Story #1] timeframe: 6 days.
+            
     **Time Frame: For [Story #2] = 1-week** 
+    
     **Time Frame: For [Story #3] = 1-week**  
+    
     **Time Frame: For [Story #4] = 1-week** 
 
 **Total Story Points**  
