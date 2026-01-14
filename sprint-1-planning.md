@@ -33,11 +33,42 @@ Fully aware that the above context (subtask/subpoint)
 is not part of the taught content, but added it for 
 context and understanding. 
 
-## Selected User Stories
-| Story # | Title | Story Points |
+## Selected User Stories - (User subStories/subtask for Main-Sprint 1)
+
+| Story # 			        | Title 				            | Story Points 	|
+| [Story #1 - subtask 1] 	| Design booking data model 		| 2 		    |
+| [Story #1 - subtask 2] 	| Implement availability check logic| 1 		    |
+| [Story #1 - subtask 3] 	| Create booking API endpoint 		| 2 		    |
+| [Story #1 - subtask 4] 	| Build booking UI component 		| 1 		    |
+| [Story #1 - subtask 5] 	| Add validation and error handling | 1 		    |
+| [Story #1 - subtask 6] 	| Write tests 				        | 1 		    |
+
 
 ## Dependencies
-[List key dependencies]
+
+[Story #1 - subtask 1] - Design booking data model
+- Blocked by -None 
+- Blocking -[Story #1 - subtask 2]
+
+[Story #1 - subtask 2] - Implement availability check logic
+- Blocked by -[Story #1 - subtask 1] 
+- Blocking -[Story #1 - subtask 3]
+
+[Story #1 - subtask 3] - Create booking API endpoint
+- Blocked by -[Story #1 - subtask 2] 
+- Blocking -[Story #1 - subtask 4]
+
+[Story #1 - subtask 4] - Build booking UI component
+- Blocked by -[Story #1 - subtask 3] 
+- Blocking -[Story #1 - subtask 5]
+
+[Story #1 - subtask 5] - Add validation and error handling
+- Blocked by -[Story #1 - subtask 4] 
+- Blocking -[Story #1 - subtask 6]
+
+[Story #1 - subtask 6] - Write tests
+- Blocked by -[Story #1 - subtask 5] 
+- Blocking -[Story #2] As an Employee, i  want to Select an automation option
 
 ## Risks
 | Risk | Probability | Impact | Mitigation |
