@@ -126,9 +126,6 @@ Velocity = 20 points per sprint.            (Velocity changes according to Assig
 | (Story 4) Capacity filtering returns incorrect rooms             	| Low         | Medium | Clarify capacity requirements, test with sample room data, and have a teammate review the logic             	|
 | (Story 10) Visitor assistance workflow is unclear or incomplete  	| Low         | Medium | Walk through the flow with the team, test basic user actions, and refine based on feedback                  	|
 
-
-
-
 - Key notes: 
     - Risk → Something that might go wrong with the subtask.
     - Probability → Likelihood it will occur (Low/Medium/High).
